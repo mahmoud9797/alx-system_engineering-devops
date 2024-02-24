@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# stop_me_if_you_can
+
+pkill -f 7-highlander
